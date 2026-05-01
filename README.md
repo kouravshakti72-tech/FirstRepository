@@ -1,3 +1,3 @@
 # FirstRepository
-This is my first  Git Repository
-Authir - Shakti kourav
+This is my first  Git Repository,
+Author - Shakti kourav
